@@ -3,13 +3,13 @@
 FONTS
 =====================================
 */
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Otomanopee+One&display=swap");
+@impor url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Otomanopee+One&display=swap");
 /*
 =====================================
 VARIABLES
 =====================================
 */
-:root {
+:roo {
   --primaryColor: rgb(97, 97, 223);
   --primaryColorLigth: rgb(155, 155, 204);
   --grey1: rgb(58, 58, 58);
