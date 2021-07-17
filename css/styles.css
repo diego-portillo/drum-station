@@ -103,7 +103,7 @@ PHONE STYLES (PARA SOBREESCRIBIR STYLES DE NAVEGADORES)
 .btn {
   text-transform: lowercase;
   background: var(--primaryColor);
-  color: var(--white);
+  color: black;
   padding: 0.375rem 0.75rem;
   letter-spacing: var(--spacing);
   display: inline-block;
